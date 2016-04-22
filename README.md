@@ -1,3 +1,5 @@
+We were still breaking down the pseudocode and Andrew just figured something out...
+
 # Node Lab - The Spiral Of Doom
 
 ![](https://i.ytimg.com/vi/0lkjoTh1Gpk/maxresdefault.jpg)
